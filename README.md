@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MuthamiaMichael
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angular Framework
-- 💞️ I’m looking to collaborate on Partnerships to create new financial solutions.
+- 👋 Hello, I’m @MuthamiaMichael
 - 📫 How to reach me: Email me via <a href= "mailto:njerumuthamia@gmail.com">Muthamia Michael</a>
 
 <!---
